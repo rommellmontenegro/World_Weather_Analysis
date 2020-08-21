@@ -21,6 +21,7 @@ A Vacation_Itinerary.ipynb file - Not included
 A WeatherPy_travel_map.png image - Not included
 A WeatherPy_travel_map_markers.png image - Not included
 
+An email to Jeff, my PSM has been copied below to explain that I have requested an extension of the deadline until this matter is resolved by the programming staff.
 
 from:	Rommell Montenegro <rommellmontenegro@gmail.com>
 to:	Jeffrey Susmarski <jsusmarski@bootcampspot.com>
